@@ -1,0 +1,22 @@
+{
+  "name": "delallchans",
+  "version": "1.0.0",
+  "description": "A bot who allows you to delete all channels by name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsMeSKKYZ3R/DelAllChansBot.git"
+  },
+  "author": "SKKYZ3R",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ItsMeSKKYZ3R/DelAllChansBot/issues"
+  },
+  "homepage": "https://github.com/ItsMeSKKYZ3R/DelAllChansBot#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
